@@ -1,0 +1,107 @@
+{
+  "customColorSchemes": [
+    [
+      {
+        "fill": "#FF6359",
+        "stroke": "none",
+        "font": "#FFFFFF"
+      },
+      {
+        "fill": "#141E1E",
+        "stroke": "none",
+        "font": "#FFFFFF"
+      },
+      {
+        "fill": "#123836",
+        "stroke": "none",
+        "font": "#FFFFFF"
+      },
+      {
+        "fill": "#41605E",
+        "stroke": "none",
+        "font": "#FFFFFF"
+      },
+      {
+        "fill": "#718886",
+        "stroke": "none",
+        "font": "#FFFFFF"
+      },
+      {
+        "fill": "#A0AFAF",
+        "stroke": "none",
+        "font": "#FFFFFF"
+      },
+      {
+        "fill": "#D0D7D7",
+        "stroke": "none"
+      },
+      {
+        "fill": "#E7EBEB",
+        "stroke": "none"
+      },
+      {
+        "fill": "#FFFFFF",
+        "stroke": "none"
+      }
+    ]
+  ],
+  "customPresetColors": [
+    "FF6359",
+    "141E1E",
+    "123836",
+    "41605E",
+    "718886",
+    "A0AFAF",
+    "D0D7D7",
+    "E7EBEB",
+    "FFFFFF"
+  ],
+  "defaultVertexStyle": {
+    "fontFamily": "Arial",
+    "fontSize": 16,
+    "fontColor": "#FFFFFF",
+    "strokeWidth": 0,
+    "fillColor": "#123836",
+    "align": "center",
+    "verticalAlign": "middle",
+    "spacing": 2,
+    "spacingTop": 2,
+    "spacingBottom": 2,
+    "spacingLeft": 2,
+    "spacingRight": 2
+  },
+  "defaultEdgeStyle": {
+    "fontFamily": "Arial",
+    "fontSize": 16,
+    "strokeWidth": 2,
+    "edgeStyle": "orthogonalEdgeStyle",
+    "rounded": 0,
+    "curved": 0
+  },
+  "libraries": [
+    {
+      "title": {
+        "main": "Netcompany"
+      },
+      "entries": [
+        {
+          "id": "Netcompany",
+          "title": {
+            "main": "Netcompany Graphics"
+          },
+          "desc": {
+            "main": "Collection of Graphics for Netcompany"
+          },
+          "libs": [
+            {
+              "title": {
+                "main": "Graphics for Netcompany"
+              },
+              "url": "https://raw.githubusercontent.com/NC-OGH/NC-Drawio/refs/heads/main/Netcompany.xml"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
